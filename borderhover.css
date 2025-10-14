@@ -1,0 +1,26 @@
+label{
+    border: 5px dashed rgb(199, 134, 134); 
+}
+label:hover{
+    color: blue;
+}
+input[type=texto],input[type=correo],input[type=edad]
+{
+ color: brown;   
+}
+p{
+    color: blue;
+}
+p:hover{
+    color: brown;font-size: x-small;
+}
+.azul{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.rojo{
+    text-decoration: underline;
+}
+.yellow{
+    background-color: cadetblue;
+}
+.

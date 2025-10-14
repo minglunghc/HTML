@@ -1,0 +1,30 @@
+img{
+   text-align: center; margin: 15px; height: 140px;
+     width: 120;
+      border: 3px dotted red;max-width: 80%;
+
+}
+p{
+    text-align: center;
+     text-decoration: dotted; color:black;
+      border: 10px; width: 200px;background-color: aquamarine; padding: 15px; border-radius: 15px;
+    
+    
+    
+
+}
+div{
+    border: 4pxS dashed black; 
+    display: flex;
+     flex-wrap: wrap;
+      gap: 25px; justify-content: center; 
+
+}
+body{
+    background-color: rgb(99, 43, 3);
+}
+p:hover{
+    background-color: brown;
+}
+
+    

@@ -1,0 +1,31 @@
+img{
+    margin: 10px;
+     text-align: center;
+      height: 100px; width: fit-content;
+       border: 0cap 4px dashed rgb(47, 47, 190);
+        border-radius: 25px;
+    
+}
+p{
+   text-align: center;
+   text-decoration: underline;
+    color: black;
+     border: 4pxS coral;
+     width: fit-content;
+      background-color: aqua;
+      padding: 20pxS;
+       border-radius: 15px;
+       transition: all 0.4s ease-in; 
+}
+div{
+    border: 5px dashed; display: flex; gap: 30px; justify-content: center;
+}
+body{
+    background-color: rgb(163, 222, 135);
+}
+p:hover{
+    background-color: chartreuse;
+    color: blue;
+    transform: rotate(270deg) scale(0.5);
+
+}

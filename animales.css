@@ -1,0 +1,32 @@
+img{
+    margin: 10px;
+     height: 100px;width: 140px;
+     border: 2px dotted red;
+     border-radius: 20px;
+}
+p{
+    text-align: center; 
+    font-size: 30px;
+    text-decoration: underline;
+    color: brown;
+    border: 3px dashed blue;
+    width: 200px;
+    background-color: chocolate;
+    padding: 15px;
+    border-radius: 15px;
+    word-wrap: break-word;
+    
+}
+div{
+    border: 3px solid black;
+    display: flex ; 
+    flex-wrap: wrap; 
+    gap: 25px;
+    justify-content: center;
+}
+body{
+    background-color: rgb(70, 153, 70);
+}
+p:hover{
+    background-color: blanchedalmond;
+}

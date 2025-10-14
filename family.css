@@ -1,0 +1,12 @@
+label{
+    border: 5pt dashed; color: blue;   
+}
+label{
+    margin: 10px;
+}
+:hover {
+    color: brown;
+}
+
+
+
