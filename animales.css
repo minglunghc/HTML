@@ -13,12 +13,12 @@ p{
     width: 200px;
     background-color: chocolate;
     padding: 15px;
-    border-radius: 15px;
+    border-radius: 25px;
     word-wrap: break-word;
     
 }
 div{
-    border: 3px solid black;
+    border: 10px dashed color(srgb rgb(247, 17, 17) green blue);
     display: flex ; 
     flex-wrap: wrap; 
     gap: 25px;
@@ -34,5 +34,5 @@ p{
 
 p:hover{
     background-color: blanchedalmond;
-    transform: rotate(90deg);
+    transform: rotate(90deg);scale: 0.7;
 }
