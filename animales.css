@@ -1,5 +1,5 @@
 img{
-    margin: 10px;
+    margin: 5px;
      height: 100px;width: 140px;
      border: 2px dotted red;
      border-radius: 20px;
@@ -9,7 +9,7 @@ p{
     font-size: 30px;
     text-decoration: underline;
     color: brown;
-    border: 3px dashed blue;
+    border: 6px dotted ; color: black;
     width: 200px;
     background-color: chocolate;
     padding: 15px;
