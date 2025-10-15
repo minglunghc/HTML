@@ -25,7 +25,7 @@ div{
     justify-content: center;
 }
 body{
-    background-color: rgb(70, 153, 70);
+   background-color: beige;
     
 }
 p{
@@ -33,6 +33,6 @@ p{
 }
 
 p:hover{
-    background-color: blanchedalmond;
+  background-color: bisque;
     transform: rotate(90deg);scale: 0.7;
 }
