@@ -24,7 +24,9 @@ body{
     background-color: rgb(99, 43, 3);
 }
 p:hover{
-    background-color: brown;
+    background-color: brown;scale:1.4;
+    transform: rotate(90deg);
+    transition: all 0.5s ease-in;
 }
 
     
