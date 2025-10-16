@@ -1,6 +1,8 @@
 label,p,h1,input[type=text],[type=email],[type=number]
 {
-color: chocolate;font-size: xx-large;border: 3px groove blue;
+color: chocolate;
+font-size: xx-large;
+
 }
 label:hover{
     color: black;border: 5px dashed red;
